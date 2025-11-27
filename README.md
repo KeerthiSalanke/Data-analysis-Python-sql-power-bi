@@ -8,7 +8,7 @@ This project showcases a complete, industry-standard data analytics workflow, mi
 📊 Visualization: Creating interactive dashboards with Power BI
 📝 Reporting: Presenting findings and recommendations to stakeholders
 
-What the outcome:
+What I learnt:
 
 - End-to-end data analytics workflow
 - Data preparation and modeling techniques
